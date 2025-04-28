@@ -21,5 +21,5 @@ Hi, I'm Ahmed Saleh, a Computer Science student from Luxor, Egypt. I’m passion
   ##
 - ## 📫 Contact Me
   - 📧 Email: eng.ahmed.saleh.2004@gmail.com
-  - 💼 LinkedIn: [--------]
+  - 💼 LinkedIn: [https://www.linkedin.com/in/%D9%90ahmed-saleh-hanafi-918932330/]
 
