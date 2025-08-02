@@ -1,5 +1,6 @@
 I’m a final-year Computer Science student from Luxor, Egypt, with a strong passion for Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.  
 - My goal is to become a **Computer Vision Engineer** and contribute to solving real-world problems.
+- [My portfolio](https://github.com/Ahmed-Saleh-Hanafi/my-portfolio/blob/main/README.md) Explore my journey in problem solving, software projects, and AI, ML, DL, and Computer Vision.
 
 ---
 
@@ -35,13 +36,8 @@ This is enriching my understanding of the **full ML lifecycle** — from data pr
 
 ---
 
-### Projects
-
-- **Smart Hotel Management System** *(Django-based)*
-
----
-
 ### Contact Me
 
 - **Email:** eng.ahmed.saleh.2004@gmail.com  
 - **Linkedin:** [Ahmed-Saleh-Hanafi](https://www.linkedin.com/in/%D9%90ahmed-saleh-hanafi-918932330/)
+- **kaggle:** [Ahmed-Saleh-Hanafi](https://www.kaggle.com/ahmedsalehhanafi)
